@@ -1,0 +1,6 @@
+%implements s12_b0_x9d1r_ModuleConstants "C"
+
+%function ModuleConstants(block) Output
+
+const real_T boat_model_and_controller_cascaded_period = 0.02;
+%endfunction
